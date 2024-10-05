@@ -1,0 +1,9 @@
+8
+      10356500	Dhaka, Bangladesh
+      10349312	Seoul, South Korea
+      10021295	São Paulo, Brazil
+       9000000	Lagos, Nigeria
+       8540121	Jakarta, Indonesia
+          5289	Páros, Greece
+          5288	Taquarana, Brazil
+          5288	Saint-Marcel, France
